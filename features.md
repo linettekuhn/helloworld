@@ -1,0 +1,2 @@
+- Auto stabilization
+- Bluetooth speaker
